@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--
+  Number of active stores that the client is licensed for, minimum is 1
+-->
+<FeatureParameterInteger xmlns="http://soap.sforce.com/2006/04/metadata">
+  <dataflowDirection>LmoToSubscriber</dataflowDirection>
+  <masterLabel>Maximum Active Stores</masterLabel>
+  <value>1</value>
+</FeatureParameterInteger>
